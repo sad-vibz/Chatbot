@@ -1,5 +1,8 @@
 # Simple Chatbot Project
 
+NOTE: Please replace the 'Chat_Dataset' With 'https://github.com/sad-vibz/Chatbot/blob/main/Chatbot_Dataset.csv' 
+
+
 This project involves creating a simple chatbot using a dataset. The notebook provides a step-by-step guide to load, clean, and analyze the data, as well as handling missing values and checking for duplicate and inconsistent entries.
 
 ## Project Structure
